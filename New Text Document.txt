@@ -1,0 +1,4 @@
+Login administration,
+The manipulation of data on the server (backend)
+AWS and dockerizing the project
+CRUD operation from and to the database
